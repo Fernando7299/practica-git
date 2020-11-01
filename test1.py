@@ -1,4 +1,5 @@
 from os import path
+from math import *
 a = path("~")
 import math as mt
 from matplotlib import pyplot as plt
